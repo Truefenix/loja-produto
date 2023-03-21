@@ -18,9 +18,9 @@ test
 .mtj.tmp/
 
 # Package Files #
-c3p0-0.9.5.4.jar,
-mchange-commons-java-0.2.16.jar,
-mysql-connector-java-8.0.17.jar,
+c3p0-0.9.5.4.jar
+mchange-commons-java-0.2.16.jar
+mysql-connector-java-8.0.17.jar
 
 *.war
 *.nar
