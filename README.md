@@ -23,7 +23,7 @@
 
 # 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/Truefenix/loja-produto/tree/master/src/br/com/loja) ou [baixá-lo](https://github.com/Truefenix/loja-produto).
+Você pode [acessar o código fonte do projeto inicial](https://github.com/Truefenix/loja-produto/tree/master/src/br/com/loja) ou [baixá-lo](https://github.com/Truefenix/loja-produto/tags).
 
 # 🛠️ Abrir e rodar o projeto
 
