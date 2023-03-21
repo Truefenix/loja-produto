@@ -1,6 +1,6 @@
 <h1 align="center"> loja-produto </h1>
 <p align="center">
-    <img src="recursos/pastas.png" alt="LOGO" width="20%" height="10%">
+    <img src="assets/pastas.png" alt="LOGO" width="20%" height="10%">
 </p>
 
 ## 🔖 Descrição do Projeto 
@@ -18,7 +18,7 @@
 
 # :hammer: Funcionalidades do projeto
 <p align="center">
-    <img src="recursos/resumo.gif" alt="GIF-FUNCIONALIDADE" width="50%" height="50%">
+    <img src="assets/resumo.png" alt="GIF-FUNCIONALIDADE" width="100%" height="100%">
 </p>
 
 # 📁 Acesso ao projeto
